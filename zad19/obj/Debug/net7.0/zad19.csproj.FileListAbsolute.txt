@@ -1,0 +1,15 @@
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\obj\Debug\net7.0\zad19.csproj.AssemblyReference.cache
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\obj\Debug\net7.0\zad19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\obj\Debug\net7.0\zad19.AssemblyInfoInputs.cache
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\obj\Debug\net7.0\zad19.AssemblyInfo.cs
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\obj\Debug\net7.0\zad19.csproj.CoreCompileInputs.cache
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\bin\Debug\net7.0\zad19.exe
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\bin\Debug\net7.0\zad19.deps.json
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\bin\Debug\net7.0\zad19.runtimeconfig.json
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\bin\Debug\net7.0\zad19.dll
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\bin\Debug\net7.0\zad19.pdb
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\obj\Debug\net7.0\zad19.dll
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\obj\Debug\net7.0\refint\zad19.dll
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\obj\Debug\net7.0\zad19.pdb
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\obj\Debug\net7.0\zad19.genruntimeconfig.cache
+C:\Users\zdv99\OneDrive\Рабочий стол\Уроки GB\Yazyki_Progr\C_sh_Lesson3\zad19\obj\Debug\net7.0\ref\zad19.dll
